@@ -17,3 +17,4 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=fd
 ```
+## Data Collection & Preprocessing
