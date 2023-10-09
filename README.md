@@ -2,7 +2,7 @@
 This repository provides a complete set of code for food detection for our project.
 
 ## Setup
-**Step 1** Enter the corresponding file directory
+**Step 1** Enter the corresponding file directory \\
 **Step 2** Create a new virtual environment
 ```
 python -m venv fd
