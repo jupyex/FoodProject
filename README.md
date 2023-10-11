@@ -9,7 +9,7 @@ python -m venv fd
 ```
 **Step 3** Activate virtual environment (on Windows)
 ```
-.\tfod\Scripts\activate
+.\fd\Scripts\activate
 ```
 **Step 4** Install dependencies
 ```
