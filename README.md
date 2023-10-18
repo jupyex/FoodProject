@@ -18,7 +18,7 @@ pip install ipykernel
 python -m ipykernel install --user --name=fd
 ```
 ## Data Collection & Preprocessing
-10 categories were created based on general foods that people eat. The labels are as follows:
+We selected 10 general foods for our project. The labels are as follows:
 | Food    | Calories |
 | -------- | ------- |
 | rice-white-steamed    |     |
