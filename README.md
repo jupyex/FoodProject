@@ -18,3 +18,16 @@ pip install ipykernel
 python -m ipykernel install --user --name=fd
 ```
 ## Data Collection & Preprocessing
+10 categories were created based on general foods that people eat. The labels are as follows:
+| Food    | Calories |
+| -------- | ------- |
+| rice-white-steamed    |     |
+| char-siu    |     |
+| beef-round-steak    |     |
+| chicken-wing    |     |
+| apple |      |
+| banana    |     |
+| scrambled-egg  |     |
+| broccoli    |     |
+| carrot    |     |
+| mushroom    |     |
