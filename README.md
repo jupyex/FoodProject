@@ -1,5 +1,5 @@
 # FoodProject
-This repository provides a complete set of code for food detection for our project.
+This repository provides a complete set of code for food detection for our project. Enter branch [`master`](https://github.com/jupyex/FoodProject/tree/master)
 
 ## Setup
 **Step 1** Enter the corresponding file directory <br>
