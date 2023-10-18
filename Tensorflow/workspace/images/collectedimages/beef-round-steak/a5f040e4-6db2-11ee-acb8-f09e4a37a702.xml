@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beef-round-steak</folder>
+	<filename>a5f040e4-6db2-11ee-acb8-f09e4a37a702.jpg</filename>
+	<path>C:\Users\esthercodes\Downloads\FoodProject\Tensorflow\workspace\images\collectedimages\beef-round-steak\a5f040e4-6db2-11ee-acb8-f09e4a37a702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beef-round-steak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>1183</ymin>
+			<xmax>2525</xmax>
+			<ymax>3195</ymax>
+		</bndbox>
+	</object>
+</annotation>

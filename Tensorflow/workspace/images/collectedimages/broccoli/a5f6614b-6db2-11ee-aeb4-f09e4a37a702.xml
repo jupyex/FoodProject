@@ -1,0 +1,26 @@
+<annotation>
+	<folder>broccoli</folder>
+	<filename>a5f6614b-6db2-11ee-aeb4-f09e4a37a702.jpg</filename>
+	<path>C:\Users\esthercodes\Downloads\FoodProject\Tensorflow\workspace\images\collectedimages\broccoli\a5f6614b-6db2-11ee-aeb4-f09e4a37a702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>broccoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>285</ymin>
+			<xmax>1061</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>
