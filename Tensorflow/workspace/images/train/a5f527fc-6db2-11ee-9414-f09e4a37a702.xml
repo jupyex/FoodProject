@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scrambled-egg</folder>
+	<filename>a5f527fc-6db2-11ee-9414-f09e4a37a702.jpg</filename>
+	<path>C:\Users\esthercodes\Downloads\FoodProject\Tensorflow\workspace\images\collectedimages\scrambled-egg\a5f527fc-6db2-11ee-9414-f09e4a37a702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scrambled-egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>108</ymin>
+			<xmax>506</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

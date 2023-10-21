@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carrot</folder>
+	<filename>a5f79f4f-6db2-11ee-a279-f09e4a37a702.jpg</filename>
+	<path>C:\Users\esthercodes\Downloads\FoodProject\Tensorflow\workspace\images\collectedimages\carrot\a5f79f4f-6db2-11ee-a279-f09e4a37a702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>78</ymin>
+			<xmax>1128</xmax>
+			<ymax>959</ymax>
+		</bndbox>
+	</object>
+</annotation>

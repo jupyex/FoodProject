@@ -1,0 +1,26 @@
+<annotation>
+	<folder>char-siu</folder>
+	<filename>a5ef3515-6db2-11ee-abc1-f09e4a37a702.jpg</filename>
+	<path>C:\Users\esthercodes\Downloads\FoodProject\Tensorflow\workspace\images\collectedimages\char-siu\a5ef3515-6db2-11ee-abc1-f09e4a37a702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>char-siu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>253</ymin>
+			<xmax>714</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>
